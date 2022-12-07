@@ -1,0 +1,23 @@
+_guri
+=====
+  Textures:
+    - B_ship1s
+        Offset: 0, 0
+        Center: 0.5, 0.5
+        Scale: 1, 1
+        Rotation: 0
+
+  Material Colors:
+    - 167, 164, 168, 255
+    - 167, 164, 168, 255
+
+
+
+_nukihan
+========
+  Textures:
+    - B_ship1s
+        Offset: 0, 0
+        Center: 0.5, 0.5
+        Scale: 1, 1
+        Rotation: 0
